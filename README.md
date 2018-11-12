@@ -5,9 +5,13 @@
 
 ## Environment
 Python 3
+
 Jupyter
+
 numpy
+
 sklearn
+
 matploitlib
 
 
