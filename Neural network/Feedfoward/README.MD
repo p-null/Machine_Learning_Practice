@@ -1,5 +1,0 @@
-#
-
-
-## run
-python Feedfoward.py
